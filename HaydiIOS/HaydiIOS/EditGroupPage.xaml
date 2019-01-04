@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.EditGroupPage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS">
+
+  <StackLayout Orientation="Vertical">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+      <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+      <Label x:Name="HeaderLabel"
+             HorizontalTextAlignment="Center"
+             HorizontalOptions="CenterAndExpand"
+             FontSize="Large" />
+        <Entry x:Name="ChangeName"
+               FontSize="Large"
+               HorizontalTextAlignment="Center"
+               HorizontalOptions="CenterAndExpand"
+               Keyboard="Text"
+               IsVisible="False" />
+      </StackLayout>
+
+      <Label Text="Grupta Olanlar"
+             HorizontalTextAlignment="Center"
+             BackgroundColor="#cccccc"
+             FontSize="Medium" />
+      <ListView x:Name="GroupPeople" ItemSelected="Remove" IsPullToRefreshEnabled="True">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}" />
+              </StackLayout>
+            </local:PeopleCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+      <Label Text="Grupta Olmayanlar"
+             HorizontalTextAlignment="Center"
+             BackgroundColor="#cccccc"
+             FontSize="Medium" />
+      <ListView x:Name="OtherPeople" ItemSelected="Add" IsPullToRefreshEnabled="True">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}" />
+              </StackLayout>
+            </local:PeopleCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+      <SearchBar x:Name="PeopleSearchBar"
+     Placeholder="Kişi Ara..."
+     TextChanged="onSearch" />
+
+      <Button x:Name="DoneButton" Clicked="Done" Text="Değişiklikleri Kaydet" FontSize="Medium" />
+      
+    </StackLayout>
+  </StackLayout>
+  
+</ContentPage>

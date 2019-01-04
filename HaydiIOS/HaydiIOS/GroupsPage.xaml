@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.GroupsPage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS">
+
+  <StackLayout Orientation="Vertical">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <Button x:Name="AddGroupButton"
+              Text="Grup Ekle"
+              FontSize="Medium"
+              TextColor="White"
+              BackgroundColor="#6CC7ED"
+              Clicked="AddGroupClicked"/>
+
+      <ListView x:Name="GroupsListView" ItemSelected="OnItemSelected">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:GroupCell>
+              <local:GroupCell.ContextActions>
+                <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}"
+                          Text="Sil" IsDestructive="True" />
+              </local:GroupCell.ContextActions>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}"/>
+              </StackLayout>
+            </local:GroupCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

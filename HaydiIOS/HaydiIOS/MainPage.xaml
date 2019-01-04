@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:HaydiIOS;assembly=HaydiIOS"
+             x:Class="HaydiIOS.MainPage">
+
+  <NavigationPage Title="Etkinlikler">
+    <x:Arguments>
+      <pages:EventsPage />
+    </x:Arguments>
+  </NavigationPage>
+  <pages:CreateEventPage Title="Etkinlik Oluştur" />
+  <NavigationPage Title="Gruplarım">
+    <x:Arguments>
+      <pages:GroupsPage />
+    </x:Arguments>
+  </NavigationPage>
+  <NavigationPage Title="Kişilerim">
+    <x:Arguments>
+      <pages:PeoplePage />
+    </x:Arguments>
+  </NavigationPage>
+</TabbedPage>

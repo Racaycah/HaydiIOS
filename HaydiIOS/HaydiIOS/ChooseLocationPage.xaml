@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.ChooseLocationPage"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+
+  <StackLayout Orientation="Vertical">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <Entry x:Name="AddressEntry"
+             HorizontalTextAlignment="Start"
+             FontSize="Medium" />
+      <maps:Map x:Name="LocationMap"
+                HasScrollEnabled="True"
+                HasZoomEnabled="True"
+                IsShowingUser="True" />
+    </StackLayout>
+  </StackLayout>
+  
+</ContentPage>

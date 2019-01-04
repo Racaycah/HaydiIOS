@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.LoginPage"
+             xmlns:local="clr-namespace:HaydiIOS; assembly=HaydiIOS">
+
+  <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" >
+    <local:CustomEntry x:Name="Username"
+           Placeholder="Kullanıcı Adı"
+           FontSize="Medium"
+           Keyboard="Text" />
+
+    <local:CustomEntry x:Name="Phone"
+           Placeholder="Telefon Numarası"
+           FontSize="Medium"
+           Keyboard="Numeric" />
+
+    <ActivityIndicator x:Name="Loading"
+                       VerticalOptions="FillAndExpand"
+                       HorizontalOptions="FillAndExpand" />
+           
+    <Button x:Name="LoginButton"
+            Text="Giriş"
+            FontSize="Large"
+            Clicked="Login" />
+  </StackLayout>
+</ContentPage>

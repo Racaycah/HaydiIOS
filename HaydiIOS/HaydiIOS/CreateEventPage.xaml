@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.CreateEventPage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+  <ScrollView>
+  <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="15" RowSpacing="15"
+          RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0}"
+          RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.03}"
+          RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1}"
+          RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.97}">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+      </Grid.ColumnDefinitions>
+
+      <Image x:Name="CategoryImage"
+             Grid.Row="0"
+             Grid.Column="1" />
+
+      <local:CustomPicker x:Name="CategoryPicker"
+                          Title="Kategori"
+                          Grid.Row="0"
+                          Grid.Column="2"
+                          Grid.ColumnSpan="3" />
+
+      <Image x:Name="CalendarImage"
+             Grid.Row="1"
+             Grid.Column="1" />
+      
+      <local:CustomDatePicker x:Name="DatePicker"
+                              Grid.Row="1"
+                              Grid.Column="2"
+                              Grid.ColumnSpan="3" />
+
+      <Image x:Name="ClockImage"
+             Grid.Row="2"
+             Grid.Column="1" />
+      
+      <local:CustomTimePicker x:Name="TimePicker"
+                  Grid.Row="2"
+                  Grid.Column="2"
+                  Grid.ColumnSpan="3" />
+
+      <local:CustomEntry x:Name="AddressEntry"
+             FontSize="Medium"             
+             Placeholder="Adres giriniz"
+             Keyboard="Text"
+             Grid.Row="3"
+             Grid.Column="2"
+             Grid.ColumnSpan="4"/>
+
+      <Image x:Name="EditIcon"
+             Grid.Row="3"
+             Grid.Column="1" />
+
+      <ActivityIndicator x:Name="LoadingIndicator"
+                         Grid.Row="3"
+                         Grid.Column="0" />
+
+      <Image x:Name="UseCurrentLocation"
+              Grid.Row="3"
+              Grid.Column="6" />
+
+      <maps:Map x:Name="LocationMap"
+                Grid.Row="4"
+                Grid.RowSpan="3"
+                Grid.Column="0"
+                Grid.ColumnSpan="7"
+                HasScrollEnabled="True"
+                IsShowingUser="True"
+                />
+
+      <local:CustomPicker x:Name="PeoplePicker"
+                          Title="Kiminle?"
+                          Grid.Row="7"
+                          Grid.Column="2"
+                          Grid.ColumnSpan="3" />
+
+      <Button x:Name="CreateEventButton"
+              Text="Haydi!"
+              FontSize="Large"
+              TextColor="Navy"
+              Clicked="CreateEvent"
+              Grid.Row="8"
+              Grid.Column="2"
+              Grid.ColumnSpan="3"/>
+
+    </Grid>
+  </RelativeLayout>
+  </ScrollView>
+</ContentPage>

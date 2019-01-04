@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.GroupDetailsPage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS">
+
+  <StackLayout Orientation="Vertical">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+
+      <Label x:Name="GroupNameLabel"
+             FontSize="Medium"
+             VerticalTextAlignment="Center"
+             HorizontalTextAlignment="Center" />
+
+      <ListView x:Name="listView" >
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}" />
+              </StackLayout>
+            </local:PeopleCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+      <Button x:Name="EditButton"
+              Text="Grubu Düzenle"
+              Clicked="EditGroup" />
+      <Button x:Name="DeleteButton"
+              Text="Grubu Sil"
+              Clicked="DeleteGroup" />
+
+      <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+      <Label Text="Favorilere Ekle"
+             FontSize="Medium" />
+      <Switch x:Name="FavoriteSwitch"
+              />
+      </StackLayout>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

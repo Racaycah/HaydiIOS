@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.ActivityDetailsPage"
+             xmlns:stack="clr-namespace:HaydiIOS;assembly=HaydiIOS"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS"
+             xmlns:xfg="clr-namespace:XFGloss;assembly=XFGloss">
+  
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:BackgroundColorConverter x:Key="ColorConverter" />
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  
+    <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+
+      <Label x:Name="AuthorLabel"
+             FontSize="Medium"
+             VerticalTextAlignment="Center"/>
+      <Label x:Name="EventNameLabel"
+             FontSize="Medium"
+             VerticalTextAlignment="Center"/>
+      <Label x:Name="DateLabel"
+             FontSize="Medium"
+             VerticalTextAlignment="Center"/>
+      <Label x:Name="TimeLabel"
+             FontSize="Medium"
+             VerticalTextAlignment="Center"/>
+      <Button x:Name="SeeLocationButton"
+              Text="Yeri Haritada Gör"
+              FontSize="Large"
+              Clicked="SeeLocation" />
+
+      <ListView x:Name="GuestsView">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <StackLayout BackgroundColor="{Binding status, Converter={StaticResource ColorConverter}, ConverterParameter=status}" Orientation="Vertical">
+                <StackLayout Orientation="Horizontal">
+                  <Label Text="{Binding name}" />
+                </StackLayout>
+              </StackLayout>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+      <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+        <Label Text="Bana "
+               FontSize="Medium"
+               VerticalTextAlignment="Center"
+               HorizontalTextAlignment="Center"></Label>
+        <Picker x:Name="AmountPicker"></Picker>
+        <Picker x:Name="TypePicker"></Picker>
+        <Label Text=" içinde "
+               FontSize="Medium"
+               VerticalTextAlignment="Center"
+               HorizontalTextAlignment="Start"></Label>
+        <Button x:Name="AddReminderButton"
+                Text="hatırlat."
+                FontSize="Medium"
+                TextColor="White"
+                Clicked="AddReminderClicked"></Button>
+      </StackLayout>
+      
+        <Button x:Name="AcceptButton"
+                Text="Kabul Et"
+                FontSize="Medium"
+                Clicked="AcceptEvent" />
+        <Button x:Name="RejectButton"
+                Text="Reddet"
+                FontSize="Medium"
+                Clicked="RejectEvent" />
+
+    </StackLayout>
+
+</ContentPage>

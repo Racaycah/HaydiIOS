@@ -1,0 +1,286 @@
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.config
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite.Net.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.xml
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csproj.App.config
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MainPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.App.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ActivityDetailsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.AddGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateEventPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EventsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupDetailsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.PeoplePage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.LoginPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MapPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EditGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.pdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll.mdb
+C:\Users\ata.doruk\Desktop\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.mdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.config
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite.Net.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLiteNetExtensions.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.core.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.xml
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csproj.App.config
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csprojResolveAssemblyReference.cache
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MainPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.App.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ActivityDetailsPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.AddGroupPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateEventPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateGroupPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EventsPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupDetailsPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupsPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.PeoplePage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.LoginPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MapPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EditGroupPage.xaml.g.cs
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.pdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll.mdb
+D:\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.mdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\sky.jpg
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.config
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Forms9Patch.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\FormsGestures.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\NumericalMethods.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCL.Utils.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.Abstractions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite.Net.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLiteNetExtensions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.core.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Forms9Patch.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.Abstractions.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.xml
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csproj.App.config
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MainPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.App.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ActivityDetailsPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.AddGroupPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateEventPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateGroupPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EventsPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupDetailsPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupsPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.PeoplePage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.LoginPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MapPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EditGroupPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ChooseLocationPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.HelpPage.xaml.g.cs
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll
+C:\Personal Files\Backup\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\sky.jpg
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll.config
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\HaydiIOS.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Forms9Patch.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\FormsGestures.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\NumericalMethods.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCL.Utils.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite.Net.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Forms9Patch.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Calendars.Abstractions.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Contacts.Abstractions.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\SQLite-net.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\bin\Debug\XFGloss.xml
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csproj.App.config
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.csprojResolveAssemblyReference.cache
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MainPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.App.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ActivityDetailsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.AddGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateEventPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.CreateGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EventsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupDetailsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.GroupsPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.PeoplePage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.LoginPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.MapPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.EditGroupPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.ChooseLocationPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.HelpPage.xaml.g.cs
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.dll
+C:\Users\ata.doruk\Desktop\Ara Proje\Code\HaydiIOS\HaydiIOS\HaydiIOS\obj\Debug\HaydiIOS.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.AddGroupPage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS">
+
+  <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ColumnSpacing="15"
+          RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0}"
+          RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0}"
+          RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1}"
+          RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1}">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="6*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+      </Grid.ColumnDefinitions>
+      <local:CustomEntry x:Name="GroupNameEntry"
+                         Placeholder="Grup Adı"
+                         FontSize="Medium"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="6"/>
+
+      <ListView x:Name="PeopleList"
+                ItemSelected="OnItemSelected"
+                Grid.Row="1"
+                Grid.Column="0"
+                Grid.ColumnSpan="6">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell Name="{Binding Name}" ImageFileName="{Binding ImageFileName}" />
+          </DataTemplate>
+        </ListView.ItemTemplate>
+
+      </ListView>
+
+
+      <Button x:Name="DoneButton"
+              Text="Ekle"
+              FontSize="Medium"
+              Clicked="AddGroupClicked"
+              Grid.Row="2"
+              Grid.Column="0"
+              Grid.ColumnSpan="6"/>
+    </Grid>
+  </RelativeLayout>
+</ContentPage>

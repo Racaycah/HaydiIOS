@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HaydiIOS.PeoplePage"
+             xmlns:local="clr-namespace:HaydiIOS;assembly=HaydiIOS">
+
+  <StackLayout Orientation="Vertical">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+      <Button x:Name="AddPeopleButton"
+              Text="Gruba Ekle"
+              Clicked="AddPeopleClicked"
+              FontSize="Medium" />
+
+      <SearchBar x:Name="PeopleSearchBar"
+                 Placeholder="Kişi Ara..."
+                 TextChanged="onSearch" />
+      
+      <Label Text="Kişiler"
+             HorizontalTextAlignment="Center"
+             FontSize="Medium"/>
+      <ListView x:Name="listView" ItemSelected="OnItemSelected" IsPullToRefreshEnabled="True">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}" />
+              </StackLayout>
+            </local:PeopleCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <Label Text="Seçilenler"
+             FontSize="Medium"
+             HorizontalTextAlignment="Center"/>
+      <ListView x:Name="listView2" ItemSelected="OnItemSelected2" IsPullToRefreshEnabled="True">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <local:PeopleCell>
+              <StackLayout Padding="5" Orientation="Horizontal">
+                <Label Text="{Binding Name}" />
+              </StackLayout>
+            </local:PeopleCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>
